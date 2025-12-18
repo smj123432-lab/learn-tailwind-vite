@@ -1,1 +1,7 @@
 @import "tailwindcss";
+@import "./likelione-theme.css" layer(theme);
+
+:root {
+  --color-euid: #ffc;
+  /* -(--color-euid) 이란식으로 부른다 */
+}
